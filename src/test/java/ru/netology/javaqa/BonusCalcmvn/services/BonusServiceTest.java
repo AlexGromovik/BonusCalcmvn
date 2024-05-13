@@ -1,6 +1,6 @@
+package ru.netology.javaqa.BonusCalcmvn.services;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.netology.javaqa.BonusService;
 
 public class BonusServiceTest {
     @Test
